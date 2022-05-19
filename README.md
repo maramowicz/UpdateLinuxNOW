@@ -21,7 +21,8 @@ Run this script:
 `upgrade_linux`
 
 ## How to add it to autostart?
-`echo "upgrade_linux &" >> ~/.bashrc`
+`echo "upgrade_linux &" >> ~/.bashrc`...
+NO! dont do that (I realised after 3 days that it was wrong)
 
 ## Why no Ubuntu etc.
 Because I dont have them installed
